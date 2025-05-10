@@ -5,7 +5,7 @@
 #Requires SoX installed for sound to work. Use: sudo apt-get install sox
 #This script notifies the user, makes a little sound and suspends the system.
 #Tested OK on Ubuntu. Bind to a key combo from Settings > Keyboard Shortcuts
-
+#Repo: https://github.com/hykaraahmet/scripts
 
 
 notify-send "Super+X SUSPENDING... See ya!"
