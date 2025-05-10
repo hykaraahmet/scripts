@@ -3,7 +3,7 @@
 #Author: Hasan Y. Karaahmet
 #Copyright ©2024 All rights are public domain.
 #Requires SoX installed for sound to work. Use: sudo apt-get install sox
-#This script otifies the user, makes a little sound and suspends the system.
+#This script notifies the user, makes a little sound and suspends the system.
 #Tested OK on Ubuntu. Bind to a key combo from Settings > Keyboard Shortcuts
 
 
