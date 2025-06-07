@@ -1,4 +1,6 @@
 #!/bin/bash
+#This script was designe to automatically number sentences containing dialogues for theater plays.
+#Usage: ./NumberDialogue.sh PersonA: PersonB: PersonC: ... Filename
 
 # Check usage
 if [ "$#" -ne 2 ]; then
